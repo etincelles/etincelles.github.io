@@ -1,0 +1,5 @@
+.bg-primary {
+  background: #f3eb30;
+  background: -webkit-linear-gradient(#f3eb30, #ff394);
+  background: linear-gradient(#f3eb30, #ff394);
+}
