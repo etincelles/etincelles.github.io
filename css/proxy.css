@@ -1,5 +1,29 @@
 .bg-primary {
-  background: #f3eb30;
+  background: #f5eb1f;
   background: -webkit-linear-gradient(#f3eb30, #ff394);
   background: linear-gradient(#f3eb30, #ff394);
+}
+
+section h2 {
+  color: #ec008c;  
+}
+
+.btn-outline-pink {
+  color: #ec008c;
+  border-color: #ec008c;
+  border: 1px solid;
+}
+.btn-outline-pink:hover,
+.btn-outline-pink:focus,
+.btn-outline-pink:active,
+.btn-outline-pink.active {
+  color: white;
+  background-color: #ec008c;
+  border-color: #ec008c;
+}
+
+.btn-outline.active {
+  color: white;
+  background-color: #f5eb1f;
+  border-color: #f5eb1f;
 }
